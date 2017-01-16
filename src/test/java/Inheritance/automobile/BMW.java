@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.automobile;
 
 /**
  * Created by alex on 16.01.2017.
